@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshhh28/hia/main/public/HIA_demo.gif" alt="HIA Demo" width="80%">
+  <img src="/public/HIA_demo.gif" alt="HIA Demo" width="80%">
 </p>
 
 ---
@@ -108,7 +108,7 @@ This creates three tables: `users`, `chat_sessions`, and `chat_messages`.
 
 > **Tip:** To skip email confirmation during development, go to **Supabase → Authentication → Providers → Email** and disable "Confirm email".
 
-![Database Schema](https://raw.githubusercontent.com/harshhh28/hia/main/public/db/schema.png)
+![Database Schema](/public/db/schema.png)
 
 ### 5. Run the app
 
