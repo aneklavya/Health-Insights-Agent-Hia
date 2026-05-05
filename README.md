@@ -76,8 +76,8 @@ Automatically falls back across models if one is unavailable:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/aneklavya/hia.git
-cd hia
+git clone https://github.com/aneklavya/Health-Insights-Agent-Hia.git
+cd Health-Insights-Agent-Hia
 ```
 
 ### 2. Install dependencies
