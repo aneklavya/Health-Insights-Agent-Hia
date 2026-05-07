@@ -193,5 +193,3 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for th
 MIT — see [LICENSE](https://github.com/harshhh28/hia/blob/main/LICENSE) for details.
 
 ---
-
-<p align="center">Built by <a href="https://harshgajjar.vercel.app">Harsh Gajjar</a></p>
